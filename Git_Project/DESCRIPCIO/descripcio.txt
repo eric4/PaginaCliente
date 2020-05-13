@@ -5,5 +5,5 @@ TUTORIAL GIT-ECLIPSE
 	https://www.youtube.com/watch?v=5UBsESBfzzo
 	https://www.youtube.com/watch?v=W6Wl23mTK18
 	
-TUTORIAL GITKRAKEN
+TUTORIAL GITKRAKEN (GitKraken amb tots els passos)
 	https://www.youtube.com/watch?v=7PNNMFuI4gw
