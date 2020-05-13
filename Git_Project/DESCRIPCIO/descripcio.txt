@@ -1,10 +1,9 @@
-TUTORIAL GIT (Fonaments del Git amb explicaci� de Makigas)
+TUTORIAL GIT (Fonaments del Git amb explicació de Makigas)
 	https://www.youtube.com/watch?v=jSJ8xhKtfP4&list=PLTd5ehIj0goMCnj6V5NdzSIHBgrIXckGU
 	
 TUTORIAL GIT-ECLIPSE
 	https://www.youtube.com/watch?v=5UBsESBfzzo
 	https://www.youtube.com/watch?v=W6Wl23mTK18
 	
-TUTORIAL GITKRAKEN (Explicaci� b�sica de clone)
-TUTORIAL GITKRAKEN (GitKraken amb tots els passos)
+TUTORIAL GITKRAKEN (Explicació bàsica de GitKraken amb tots els passos)
 	https://www.youtube.com/watch?v=7PNNMFuI4gw
